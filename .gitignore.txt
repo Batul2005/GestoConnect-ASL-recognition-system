@@ -1,0 +1,36 @@
+# -------------------
+# Python files
+# -------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+
+# -------------------
+# Virtual Environment
+# -------------------
+venv/
+ENV/
+env/
+
+# -------------------
+# Large Files (ignore these)
+# -------------------
+*.h5
+*.pkl
+*.csv
+*.npz
+*.npy
+
+# -------------------
+# Datasets (keep only small samples in repo)
+# -------------------
+dataset/images/
+dataset/landmarks.csv
+
+# -------------------
+# OS/System files
+# -------------------
+.DS_Store
+Thumbs.db

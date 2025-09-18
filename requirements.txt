@@ -1,0 +1,10 @@
+tensorflow>=2.6
+mediapipe
+opencv-python
+numpy
+pandas
+scikit-learn
+matplotlib
+pyttsx3
+joblib
+tqdm
